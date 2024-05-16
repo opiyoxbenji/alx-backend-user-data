@@ -1,0 +1,14 @@
+The name is too long, 292 chars total.
+Trying to shorten...
+New name is a2e00974ce6b41460425.csv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240515%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240515T103438Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=441febdf.
+--2024-05-15 10:36:03--  https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2019/11/a2e00974ce6b41460425.csv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240515%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240515T103438Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=441febdfc9888c6e41f92700fb68698487ce7fafc4297ceff5589af11b76075e
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.217.229.160, 52.217.123.64, 52.217.236.128, ...
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.217.229.160|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3390 (3.3K) []
+Saving to: ‘a2e00974ce6b41460425.csv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240515%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240515T103438Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=441febdf’
+
+     0K ...                                                   100%  171M=0s
+
+2024-05-15 10:36:03 (171 MB/s) - ‘a2e00974ce6b41460425.csv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240515%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240515T103438Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=441febdf’ saved [3390/3390]
+
