@@ -5,7 +5,7 @@ Task - Encrypting passwords
 import bcrypt
 
 
-def hash_password(password: str) => bytes:
+def hash_password(password: str) -> bytes:
     """
     Salted password generation!!
     """
